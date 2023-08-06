@@ -16,4 +16,4 @@ export const getMedicalOrderDetail = (id: string) =>
 // 5. 订单-查询物流信息
 export const getMedicalOrderLogistics = (id: string) =>
   request<Logistics>(`/patient/order/${id}/logistics`)
-console.log(3223)
+console.log(322332)
