@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+console.log(111)
+</script>
 <template>
   <!-- 设置路由出口 -->
   <router-view></router-view>
